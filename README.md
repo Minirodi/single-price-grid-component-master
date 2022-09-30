@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Minirodi/single-price-grid-component-master
+- Live Site URL: https://minirodi.github.io/single-price-grid-component-master/
 
 
 
